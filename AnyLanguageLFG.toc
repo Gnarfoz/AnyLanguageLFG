@@ -4,7 +4,7 @@
 ## Notes: Allows you to (de)select any language in the group finder language filter.
 ## Notes-deDE: Freie Sprachauswahl im LFG-Fenster. Eigene Sprache abwählen erlaubt!
 
-## Version: @project-version@.@project-revision@
+## Version: @project-version@
 ## Author: Gnarfoz
 ## X-Email: gnarfoz@gmail.com
 ## X-Category: Miscellaneous
