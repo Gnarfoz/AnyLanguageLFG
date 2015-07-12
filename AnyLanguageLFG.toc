@@ -1,0 +1,12 @@
+## Interface: 60200
+
+## Title: AnyLanguageLFG
+## Notes: Allows you to deselect your own WoW client's language in the group finder.
+## Notes-deDE: Freie Sprachauswahl im LFG-Fenster. Eigene Sprache abwählen erlaubt!
+
+## Version: @project-version@.@project-revision@
+## Author: Gnarfoz
+## X-Email: gnarfoz@gmail.com
+## X-Category: Miscellaneous
+
+LANgauge.lua
