@@ -9,11 +9,12 @@ local function OnEvent(self, event, ...)
 	if event == "ADDON_LOADED" then
 		if (select(1,...)) == "AnyLanguageLFG" then
 			AnyLanguageLFG:UnregisterAllEvents()
+			AnyLanguageLFG = nil
 			magic()
 		end
 	end
 end		
 		
-local AnyLanguageLFG = CreateFrame("Frame")
+AnyLanguageLFG = CreateFrame("Frame")
 AnyLanguageLFG:SetScript("OnEvent", OnEvent)
 AnyLanguageLFG:RegisterEvent("ADDON_LOADED")
