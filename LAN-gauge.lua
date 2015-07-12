@@ -1,4 +1,4 @@
-# Very complicated addon!
+-- Very complicated addon!
 local function magic()
 	function C_LFGList.GetDefaultLanguageSearchFilter()
 		return {}
