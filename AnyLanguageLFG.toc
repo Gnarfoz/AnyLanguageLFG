@@ -9,4 +9,5 @@
 ## X-Email: gnarfoz@gmail.com
 ## X-Category: Miscellaneous
 
-LANgauge.lua
+## In-joke, cf. Blizzard's "LFGListUtil_InitializeLangaugeFilter" function.
+LAN-gauge.lua
