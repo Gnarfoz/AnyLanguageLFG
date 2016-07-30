@@ -1,4 +1,4 @@
-## Interface: 60200
+## Interface: 70000
 
 ## Title: AnyLanguageLFG
 ## Notes: Allows you to (de)select any language in the group finder language filter.
