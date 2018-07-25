@@ -1,4 +1,5 @@
 -- Very complicated addon!
+-- C_LFGList.Search(6,{{matches={"farm"}}},4,4,{deDE=true}) -- proof that english is always returned :-(
 local function magic()
 	function C_LFGList.GetDefaultLanguageSearchFilter()
 		return {}
